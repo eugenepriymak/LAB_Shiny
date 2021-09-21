@@ -47,7 +47,7 @@ python generate_data.py
 
 9. Заполняем БД данными из generated_data.json:
 ```commandline
-python manage.py loadddata genereated_data.json
+python manage.py loaddata genereated_data.json
 ```
 
 10. Запускаем сервер:
